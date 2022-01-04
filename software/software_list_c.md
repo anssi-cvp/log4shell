@@ -122,8 +122,6 @@
 |Cisco|CloudCenter Cost Optimizer|5.5.2|  |Fix|Fix| | |[source](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
 |Cisco|CloudCenter Suite Admin|5.3.1|  |Fix|Fix| |  |[source](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
 |Cisco|CloudCenter Workload Manager|5.5.2| |Fix| | | |[source](https://tools.cisco.com/security/left/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
-| Cisco | Cloudlock | All versions |  | Fix | Fix | Not vuln | |[source](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
-| Cisco | Cloudlock for Government | All versions |  | Fix | Fix | Not vuln | |[source](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
 |Cisco|Cognitive Intelligence| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://tools.cisco.com/security/left/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
 |Cisco|Common Services Platform Collector (CSPC) |2.10.0, 2.9.1.3|  |Fix|Fix|Not vuln||[source](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
 |Cisco|Computer Telephony Integration Object Server (CTIOS)| | |Vulnerable| | | |[source](https://tools.cisco.com/security/left/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
